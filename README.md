@@ -42,10 +42,9 @@ I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focus
 
 Here are some notable projects I've worked on:
 
-- **Sentiment Analysis with Deep Learning:** Developed a sentiment analysis model using a deep learning approach, achieving 90% accuracy on a benchmark dataset.
-- **Image Classification with Convolutional Neural Networks:** Built a CNN model to classify images from the CIFAR-10 dataset with an accuracy of 85%.
-- **Chatbot with Natural Language Processing:** Created a chatbot using NLP techniques and deployed it as a web application using Flask.
-- **Reinforcement Learning for Autonomous Driving:** Implemented a reinforcement learning algorithm to train an autonomous vehicle to navigate a simulated environment.
+- [**Data pipeline-to-Apply-Deep-learning-on-SUSY-dataset-using-Kafka-and-TensorFlow**] (https://github.com/murali22chan/Datapipeline-to-Apply-Deep-learning-on-SUSY-dataset-using-Kafka-and-TensorFlow)
+- [**RFM Analysis and Customer Segmentation**] (https://github.com/murali22chan/RFM-Analysis-and-Customer-Segmentation)
+
 
 Check out my GitHub repositories for more projects and code samples!
 
