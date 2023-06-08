@@ -42,8 +42,8 @@ I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focus
 
 Here are some notable projects I've worked on:
 
-- **Datapipeline to apply Deep Learning on SUSY dataset using Kafka and TensorFlow:** [Link](https://github.com/murali22chan/Datapipeline-to-Apply-Deep-learning-on-SUSY-dataset-using-Kafka-and-TensorFlow)
-- [**RFM Analysis and Customer Segmentation**] (https://github.com/murali22chan/RFM-Analysis-and-Customer-Segmentation)
+- **Datapipeline to apply Deep Learning on SUSY dataset using Kafka and TensorFlow:** [Repo](https://github.com/murali22chan/Datapipeline-to-Apply-Deep-learning-on-SUSY-dataset-using-Kafka-and-TensorFlow)
+- **RFM Analysis and Customer Segmentation** [Repo](https://github.com/murali22chan/RFM-Analysis-and-Customer-Segmentation)
 
 
 Check out my GitHub repositories for more projects and code samples!
