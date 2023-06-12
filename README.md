@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focusing on NLP, NLU and AI for Social Good.
 
-💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS
+💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS. <br>
 🌱 I’m currently learning KubeFlow, Ray.
 
 
