@@ -44,6 +44,8 @@ Here are some notable projects I've worked on:
 
 - **Data pipeline to apply Deep Learning on SUSY dataset using Kafka and TensorFlow:** [Repo](https://github.com/murali22chan/Datapipeline-to-Apply-Deep-learning-on-SUSY-dataset-using-Kafka-and-TensorFlow)
 - **RFM Analysis and Customer Segmentation** [Repo](https://github.com/murali22chan/RFM-Analysis-and-Customer-Segmentation)
+- **Vaccine.AI** [Repo](https://github.com/murali22chan/Vaccine.AI)
+- **AUVS Bot** [Repo](https://github.com/murali22chan/AUVS-Bot)
 
 
 Check out my GitHub repositories for more projects and code samples!
