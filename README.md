@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 
-I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focusing on NLP, NLU and AI for Social Good.
-💼 Seeking internships for the summer and fall.
+I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focusing on NLP, NLU and AI for Social Good. <br>
+💼 Seeking internships for the summer and fall. <br>
 💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS. <br>
 🌱 I’m currently learning KubeFlow, Ray.
 
@@ -60,7 +60,7 @@ Here are some notable projects I've worked on:
 
 Check out my GitHub repositories for more projects and code samples!
 
-📖 Publications
+## 📖 Publications
 - **1D Convolution approach to human activity recognition using sensor data and comparison with machine learning algorithms. IJCCE (Elsevier)** [Repo](https://github.com/murali22chan/1D-Conv-on-HAR-IJCCE-Publication-) 
 
 ## 📚 Education
