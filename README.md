@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focusing on NLP, NLU and AI for Social Good.
-
+💼 Seeking internships for the summer and fall.
 💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS. <br>
 🌱 I’m currently learning KubeFlow, Ray.
 
@@ -40,6 +40,14 @@ I'm Muralidharan Kumaravel, a Gradute Student Reseacher in Info Lab at WPI focus
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Libraries:** Pandas, NumPy, Scikit Learn, PySpark, Matplotlib, Plotly, Seaborn, Bokeh, Streamlit, NLTK, spaCy, OpenCV, rospy
 
+## 🔭 Experience
+
+- **Graduate Research Assistant | Info Lab, WPI | Nov 2022 - Present**  
+- **Research Internship (ML, DL, CV) | Defence Research and Development Organization(CVRDE), IIIT DM, VIT Vellore | May 2021 - October 2021**  
+- **Software Development Internship (Back-end Development) | Centre for Development of Advance Computing (CDAC) |  January 2021 – April 2021**
+- **Technical Lead at VIT University’s Autonomous Robot Team | Team Auto Z | October 2020 – May 2021**
+
+
 ## 🚀 Projects
 
 Here are some notable projects I've worked on:
@@ -51,6 +59,9 @@ Here are some notable projects I've worked on:
 
 
 Check out my GitHub repositories for more projects and code samples!
+
+📖 Publications
+- **1D Convolution approach to human activity recognition using sensor data and comparison with machine learning algorithms. IJCCE (Elsevier)** [Repo](https://github.com/murali22chan/1D-Conv-on-HAR-IJCCE-Publication-) 
 
 ## 📚 Education
 
