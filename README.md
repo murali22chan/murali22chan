@@ -35,7 +35,7 @@ I'm Muralidharan Kumaravel, a Graduate Student Researcher in Info Lab at WPI foc
 
 ## 🧠 Expertise
 - **Languages:** Python, Java, C++, JavaScript, SQL, R
-- **Frameworks:** Pytorch, HuggingFace, Tensorflow, Keras, Node.js, Flask, Tableau, ROS, MoveIt
+- **Frameworks:** Pytorch, HuggingFace, Tensorflow, Keras, Node.js, Flask, Tableau, ROS, MoveIt, LangChain
 - **Big Data:** Spark, Hadoop, Kafka, Hive, SparkSQL, Open MP
 - **MLOps:** Git, PyCharm, Weights and Bias (WandB), Tmux, Docker, AWS SageMaker, Airflow
 - **Databases:** MySQL, PostgreSQL, MongoDB
