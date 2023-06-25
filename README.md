@@ -43,7 +43,7 @@ I'm Muralidharan Kumaravel, a Graduate Student Researcher in Info Lab at WPI foc
 
 ## 🔭 Experience
 
-- **Graduate Research Assistant | Info Lab, WPI | Nov 2022 - Present**  
+- **Graduate Student Researcher | Info Lab, WPI | Nov 2022 - Present**  
 - **Research Internship (ML, DL, CV) | Defence Research and Development Organization(CVRDE), IIIT DM, VIT Vellore | May 2021 - October 2021**  
 - **Software Development Internship (Back-end Development) | Centre for Development of Advance Computing (CDAC) |  January 2021 – April 2021**
 - **Technical Lead at VIT University’s Autonomous Robot Team | Team Auto Z | October 2020 – May 2021**
