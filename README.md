@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 I'm Muralidharan Kumaravel, a Graduate Student Researcher in Info Lab at WPI focusing on NLP, NLU, and AI for Social Good. <br>
 💼 Seeking internships for the summer and fall. <br>
-💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS. <br>
+💬 Ask me about - PEFT, RLHF, Prompt Engineering, Domain Adaptation, Active Learning, End-To-End ETL/Data Pipelines, Data Dashboards, Graph Neural Networks, ROS. <br>
 🌱 I’m currently learning KubeFlow, Ray by building end-to-end AI products. <br>
 🔭 I’m currently researching ways to improve black box machine-generated text detection in supervised and few shot settings. 
 
 
 ## 🧠 Expertise
 - **Languages:** Python, Java, C++, JavaScript, SQL, R
-- **Frameworks:** Pytorch, HuggingFace, Tensorflow, Keras, Node.js, Flask, Tableau, ROS, MoveIt, LangChain
+- **Frameworks:** Pytorch, HuggingFace, Tensorflow, Keras, Node.js, Flask, Flutter, Tableau, ROS, MoveIt, LangChain
 - **Big Data:** Spark, Hadoop, Kafka, Hive, SparkSQL, Open MP
 - **MLOps:** Git, PyCharm, Weights and Bias (WandB), Tmux, Docker, AWS SageMaker, Airflow
 - **Databases:** MySQL, PostgreSQL, MongoDB
